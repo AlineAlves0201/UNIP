@@ -1,0 +1,10 @@
+C:\Users\mario\source\repos\CalculadoraBtn\CalculadoraBtn\bin\Debug\CalculadoraBtn.exe.config
+C:\Users\mario\source\repos\CalculadoraBtn\CalculadoraBtn\bin\Debug\CalculadoraBtn.exe
+C:\Users\mario\source\repos\CalculadoraBtn\CalculadoraBtn\bin\Debug\CalculadoraBtn.pdb
+C:\Users\mario\source\repos\CalculadoraBtn\CalculadoraBtn\obj\Debug\CalculadoraBtn.csprojResolveAssemblyReference.cache
+C:\Users\mario\source\repos\CalculadoraBtn\CalculadoraBtn\obj\Debug\CalculadoraBtn.Form1.resources
+C:\Users\mario\source\repos\CalculadoraBtn\CalculadoraBtn\obj\Debug\CalculadoraBtn.Properties.Resources.resources
+C:\Users\mario\source\repos\CalculadoraBtn\CalculadoraBtn\obj\Debug\CalculadoraBtn.csproj.GenerateResource.Cache
+C:\Users\mario\source\repos\CalculadoraBtn\CalculadoraBtn\obj\Debug\CalculadoraBtn.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\CalculadoraBtn\CalculadoraBtn\obj\Debug\CalculadoraBtn.exe
+C:\Users\mario\source\repos\CalculadoraBtn\CalculadoraBtn\obj\Debug\CalculadoraBtn.pdb
